@@ -1,4 +1,5 @@
 requests==2.27.1
 streamlit==1.6.0
+pycountry==20.7.3
 streamlit-lottie==0.0.3
 
